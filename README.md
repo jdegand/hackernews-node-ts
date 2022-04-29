@@ -12,8 +12,6 @@ This is the completed result from this tutorial [How To GraphQL](https://www.how
 
 ## Overview
 
-![](screenshot.png)
-
 ### Built with
 
 - GraphQL

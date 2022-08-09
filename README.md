@@ -33,13 +33,13 @@ $ npm install
 $ npm run dev
 ```
 
-### What I learned
+## What I learned
 
-- For the minimal amount of typescript used here, typescript required a lot of packages.  
-- GraphiQL had been a holding pattern and seems like the community is trying to revive the project. 
+- For the minimal amount of typescript used, project required a lot of typescript packages.  
+- GraphiQL has been in a holding pattern but it seems like the community is trying to revive the project. 
 - Graphql-Helix abstracts away a ton of steps - parse, validation, variable parsing and context building   
 
-### Useful Resources
+## Useful Resources
 
 - [NPM](https://www.npmjs.com/package/graphql-import-node) - had issue with graphql-import-node needed to register it.  Tutorial neglected to mention it but later file had the import.  
 - [Prisma Blog](https://www.prisma.io/blog/graphql-server-basics-the-schema-ac5e2950214e) - outdated ?

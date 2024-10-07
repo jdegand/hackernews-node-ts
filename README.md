@@ -1,6 +1,6 @@
 # Node Typescript Helix Tutorial 
 
-This is the completed result from this tutorial [How To GraphQL](https://www.howtographql.com/typescript-helix/0-introduction/).
+This is the completed result from this tutorial [How To GraphQL](https://www.howtographql.com/typescript-helix/0-introduction/). **Note**: This doesn't seem to work anymore.
 
 ## Table of contents
 
@@ -24,7 +24,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/jdegand/hackernews-node-ts
+$ git clone https://github.com/jdegand/hackernews-node-ts.git
 
 # Install dependencies
 $ npm install
@@ -35,7 +35,7 @@ $ npm run dev
 
 ## What I learned
 
-- For the minimal amount of typescript used, project required a lot of typescript packages.  
+- For the minimal amount of TypeScript used, project required a lot of TypeScript packages.  
 - GraphiQL has been in a holding pattern but it seems like the community is trying to revive the project. 
 - Graphql-Helix abstracts away a ton of steps - parse, validation, variable parsing and context building   
 
@@ -46,3 +46,4 @@ $ npm run dev
 - [Medium](https://medium.com/@krishnaregmi/how-to-write-comments-in-a-graphql-schema-to-enhance-auto-generated-documentation-c0047125ea24) - comments in schema file
 - [Stack Overflow](https://stackoverflow.com/questions/69274503/property-does-not-exist-when-i-want-to-use-model-added-in-prisma-schema) - have to restart vscode after changing schema.prisma 
 - [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events) - Server sent events
+- [GitHub](https://github.com/prisma/prisma/discussions/17832) - Prisma imports were split
